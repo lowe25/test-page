@@ -9,7 +9,7 @@ export default defineConfig({
     port: 3000,
   },
   //Remove for uploading
-  //base: "/REPO NAME/",
+  base: "/test-page/",
   build: {
     outDir: "docs"
   }
